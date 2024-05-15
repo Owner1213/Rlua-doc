@@ -41,5 +41,10 @@ error("failed to load the script!")
 ```
 if you try to print something after the error, it would look like this:
 ![ConsoleError](https://github.com/Owner1213/Rlua-doc/assets/137589536/2981c3b1-b6e8-48e7-b1f7-37a3c07a5e83)
-![ConsoleWarn](https://github.com/Owner1213/Rlua-doc/assets/137589536/8803f431-32a1-446b-97f4-e8b6346e9f27)
-
+## Variables
+Variables are values to store things to make code a little easier.
+### Code Sample:
+```lua
+local MyVariable = "Hi!"
+print(MyVariable) --> Hi!
+```
