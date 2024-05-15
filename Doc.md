@@ -32,6 +32,7 @@ warn() is a lua/luau function similar to print() except that it prints something
 warn("Your car ran out of gas!"); --> Your car ran out of gas!
 ```
 Your console should look like this:
+![ConsoleWarn](https://github.com/Owner1213/Rlua-doc/assets/137589536/d587c91e-ba3b-4095-830f-ab1f51109b6b)
 ## Error
 error is a different type of print, but instead it acts as a real error, stopping all the lines below it.
 ### Code Sample:
