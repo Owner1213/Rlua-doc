@@ -23,10 +23,13 @@ print(8*8) --> 64
 
 press f9 to open the console.
 Your console should look something like this once you have run the script above.
-![Console](https://github.com/Owner1213/Rlua-doc/assets/137589536/af77a826-c314-4255-a0c1-f5c4032e8828)
+![ConsolePrint](https://github.com/Owner1213/Rlua-doc/assets/137589536/af77a826-c314-4255-a0c1-f5c4032e8828)
 ## Warn
 warn() is a lua/luau function similar to print() except that it prints something in a different color, looking like a warning.
 ### Code Sample:
 ``` lua
 warn("Your car ran out of gas!"); --> Your car ran out of gas!
 ```
+Your console should look like this:
+![ConsoleWarn](https://github.com/Owner1213/Rlua-doc/assets/137589536/8803f431-32a1-446b-97f4-e8b6346e9f27)
+
