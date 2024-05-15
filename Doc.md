@@ -1,4 +1,4 @@
-RLua Documentation
+# RLua Documentation
 
 just a simple doc that helps me code i guess
 
